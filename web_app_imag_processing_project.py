@@ -48,5 +48,5 @@ model.summary()
 
 #!cp /content/drive/MyDrive/image_processing_project_docs/my_model.h5 my_model.h5
 
-!zip -r fake_image_app.zip app.py requirements.txt my_model.h5
+#!zip -r fake_image_app.zip app.py requirements.txt my_model.h5
 
